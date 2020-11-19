@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Bharat bot
+- 🔭 I’m currently working on Giveaway bot
 - 🌱 I’m currently learning java, c##, c++
 - 🤔 I’m looking for help with java
 - 💬 Ask me about nodejs
